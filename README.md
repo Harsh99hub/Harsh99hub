@@ -1,5 +1,5 @@
-<h1 align="rights"> Hi 👋, I'm Harsh Kashyap
 <h1 align="center"> This Is My GitHub Profile 
+<h1 align="rights"> Hi 👋, I'm Harsh Kashyap <br></h1></br>
 
   <img align="center" alt="GIF" src=https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif width="850" height="500" />
 
