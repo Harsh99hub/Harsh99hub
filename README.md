@@ -1,11 +1,12 @@
 <h1 align="center"> This Is My GitHub Profile 
 <h1 align="rights"> Hi 👋, I'm Harsh Kashyap <br></h1></br>
 
-<b>🚀 About Me <br>
-🎓 BCA 2nd-year student
-🤖 Focused on AI & Machine Learning
-🧠 Learning Python & Data Analysis
-🛠️ Building real-world projects
+###🚀 About Me
+
+- 🎓 BCA 3rd-year student  
+- 🤖 Focused on AI & Machine Learning  
+- 🧠 Learning Python & Data Analysis  
+- 🛠️ Building real-world projects
 
   <img align="center" alt="GIF" src=https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif width="1050" height="400" />
 
